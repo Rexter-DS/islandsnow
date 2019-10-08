@@ -8,3 +8,25 @@
   border: none;
   box-shadow: none;
 }
+
+#footer {
+  border-top: solid #e5e5e5 1px;
+  border-bottom: solid #e5e5e5 1px;;
+  margin-top: 80px;
+  padding-top: 30px;
+  margin-bottom: 50px;
+  padding-bottom: 30px;
+}
+
+#social-footer {
+  border: none;
+  box-shadow: none;
+  padding-bottom: 20px;
+}
+.row {
+  height: 25px;
+}
+
+a {
+  color: black;
+}
